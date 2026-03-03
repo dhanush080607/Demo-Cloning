@@ -6,19 +6,22 @@ The CI-TOOL repository was successfully cloned from GitHub to the local system u
 
 ## 💻 Clone Command
 
-git clone https://github.com/username/CI-TOOL.git  
-cd CI-TOOL  
+```
+git clone https://github.com/username/CI-TOOL.git
+cd CI-TOOL
+```
 
 ---
 
-## 🖥 Terminal Output
+## 🖥 Clone Output Screenshot
 
-Cloning into 'CI-TOOL'...  
-remote: Enumerating objects: 5, done.  
-remote: Counting objects: 100% (5/5), done.  
-remote: Compressing objects: 100% (4/4), done.  
-remote: Total 5 (delta 0), reused 5 (delta 0), pack-reused 0  
-Receiving objects: 100% (5/5), done.  
+![Clone Output](Screenshot%202026-03-03%20115256.png)
+
+---
+
+## 📂 Folder View Screenshot
+
+![Folder Structure](Screenshot%202026-03-03%20115324.png)
 
 ---
 
